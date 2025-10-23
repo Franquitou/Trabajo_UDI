@@ -1,5 +1,9 @@
 Franco Panzani
 Tengo 19 años
+<<<<<<< HEAD
 Soy de Santo Tome
 Me gusta jugar al padel y al futbol
 Estudio DSW en IES
+=======
+Soy de Santo Tome
+>>>>>>> parent of b2f2948 (Commit 4 franco)
